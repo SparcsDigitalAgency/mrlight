@@ -3541,7 +3541,6 @@ body:not(.device-touch) .grid-container {
 	margin: 0 0 40px 0;
 	list-style: none;
 	border: 1px solid rgba(0,0,0,0.07);
-	float: left;
 	border-radius: 4px;
 }
 
@@ -13586,4 +13585,23 @@ body:not(.no-transition) #wrapper,
 }
 .breadcrumb-item.active {
     color: #de1a1a;
+}
+.media-iframe-img{
+	position: absolute;
+}
+.media-overlay-icon{
+	position: relative;
+}
+.print-ad-img .portfolio-item{
+	width: 100%;
+}
+.distributor{
+	    text-align: center;
+}
+.distributor h3 {
+color: #de1a1a !important;
+margin-bottom: 5px;
+}
+.distributor h5 {
+font-weight: 200px;
 }
