@@ -104,7 +104,9 @@
 	margin-right: 5px;
 }
 
-.iconlist-color li i { color: #1ABC9C; }
+.iconlist-color li i {
+    color: #de1a1a;
+}
 
 .icon-border {
   padding: .2em .25em .15em;
