@@ -13656,3 +13656,9 @@ font-weight: 200px;
     border: 1px #e0dbdb solid;
     padding: 50px;
 }
+.sidenav li li a {
+    /* padding: 6px 20px 6px 35px; */
+    font-size: 14px;
+    /* border-top: none; */
+    /* border-bottom: none; */
+    }
