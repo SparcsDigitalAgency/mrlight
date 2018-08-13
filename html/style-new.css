@@ -9261,7 +9261,7 @@ ul.tab-nav-lg.tab-nav-section li.ui-tabs-active:before {
 
 .tab-container {
 	position: relative;
-	padding: 0px;
+	padding: 20px 0px 0px 0px;
 }
 
 ul.tab-nav li a i {
@@ -11102,8 +11102,6 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 /* Heading Block - with Subtitle
 -----------------------------------------------------------------*/
-
-.heading-block { margin-bottom: 50px; }
 
 .heading-block h1,
 .heading-block h2,
