@@ -9261,7 +9261,11 @@ ul.tab-nav-lg.tab-nav-section li.ui-tabs-active:before {
 
 .tab-container {
 	position: relative;
+<<<<<<< HEAD
 	padding: 0px;
+=======
+	padding: 20px 0px 0px 0px;
+>>>>>>> ac376dedc5cf2bc656deea415d6c0f43c6449745
 }
 
 ul.tab-nav li a i {
@@ -11102,8 +11106,6 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 /* Heading Block - with Subtitle
 -----------------------------------------------------------------*/
-
-.heading-block { margin-bottom: 50px; }
 
 .heading-block h1,
 .heading-block h2,
@@ -13644,3 +13646,26 @@ font-weight: 200px;
     padding: 1.25rem;
     min-height: 228px;
 }
+<<<<<<< HEAD
+=======
+
+.ewaste-list{
+    line-height: 1.8em;
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding-left: 20px;
+}
+.product-box{
+	position: relative;
+    margin-bottom: -60px;
+    height: 426px;
+    border: 1px #e0dbdb solid;
+    padding: 50px;
+}
+.sidenav li li a {
+    /* padding: 6px 20px 6px 35px; */
+    font-size: 14px;
+    /* border-top: none; */
+    /* border-bottom: none; */
+    }
+>>>>>>> ac376dedc5cf2bc656deea415d6c0f43c6449745
