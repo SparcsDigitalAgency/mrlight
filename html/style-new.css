@@ -13666,4 +13666,9 @@ font-weight: 200px;
     /* border-top: none; */
     /* border-bottom: none; */
     }
-
+.category-padding{
+	padding-top: 15px;
+}
+.category-padding h5:hover{
+color: #de1a1a;
+}
