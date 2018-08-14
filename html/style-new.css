@@ -10656,7 +10656,7 @@ blockquote.float-right {
 
 .owl-carousel .owl-nav [class*=owl-] {
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	margin-top: -18px;
 	left: -36px;
 	zoom: 1;
@@ -13646,8 +13646,6 @@ font-weight: 200px;
     padding: 1.25rem;
     min-height: 228px;
 }
-<<<<<<< HEAD
-=======
 
 .ewaste-list{
     line-height: 1.8em;
@@ -13668,4 +13666,4 @@ font-weight: 200px;
     /* border-top: none; */
     /* border-bottom: none; */
     }
->>>>>>> ac376dedc5cf2bc656deea415d6c0f43c6449745
+
